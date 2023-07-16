@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustID>0001</CustID>
+  <FirstName>John</FirstName>
+  <LastName>Doe</LastName>
+  <Address>123 Main</Address>
+  <City>Anytown</City>
+  <State>MI</State>
+  <Zip>12345</Zip>
+  <ZipExt>1234</ZipExt>
+  <AreaCode>111</AreaCode>
+  <Phone>111-1111</Phone>
+  <CellAreaCode>222</CellAreaCode>
+  <CellPhone>222-2222</CellPhone>
+  <Email>jdoe@ISP.com</Email>
+</Customer>

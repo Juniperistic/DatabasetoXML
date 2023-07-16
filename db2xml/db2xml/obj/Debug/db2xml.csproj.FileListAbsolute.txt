@@ -1,0 +1,8 @@
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\bin\Debug\db2xml.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\bin\Debug\db2xml.exe
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\bin\Debug\db2xml.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\obj\Debug\db2xml.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\obj\Debug\db2xml.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\obj\Debug\db2xml.csproj.CopyComplete
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\obj\Debug\db2xml.exe
+C:\Users\miran\Desktop\CSCI 234\Week 12\Week 12 Codes\db2xml\db2xml\obj\Debug\db2xml.pdb
